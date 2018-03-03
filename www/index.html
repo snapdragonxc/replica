@@ -19,12 +19,12 @@
     <!-- JAVASCRIPTS -->
     <script src="scripts/app.js"></script> 
     <style type="text/css">
-          body {
+        body {
             -webkit-font-smoothing: antialiased;
         }
         html {
-              overflow-y: scroll;
-            }
+            overflow-y: scroll;
+        }
     </style>
 </head>
 <body>
@@ -48,14 +48,14 @@
             </nav>    
             <!-- Site Title  -->
             <div class="row site-header-title">
-            <div class="lg-col-span-12">
-            <h1><a href="#HomePage">RACE REPLICA</a> </h1>
-            </div>
+                <div class="lg-col-span-12">
+                    <h1><a href="#HomePage">RACE REPLICA</a> </h1>
+                </div>
             </div>
             <div class="row site-header-sub-title">
                 <div class="lg-col-span-12">
-            <h2>EST. 2016</h2>
-            </div>
+                    <h2>EST. 2016</h2>
+                </div>
             </div>
             <!-- Site Nav -->
             <nav class="row site-header-nav">
@@ -68,21 +68,21 @@
                         <li><a href="#BlogPage">#BLOG</a></li>
                     </ul>
                 </div>            
-        <div class="lg-col-span-3 site-header-nav-right">
-            <form class="site-header-nav-right-search" onsubmit="search(event)">
-            <input type="text" name="query" id="query" class="search-field" placeholder="SEARCH..." autocomplete="off" autocorrect="off" spellcheck="false">
-            <button type='submit'><i class='fa fa-search'></i></button>
-          </form>
-        </div> 
-      </nav> 
-      <script>          
-          var search = function(e){
-              e.preventDefault();
-              var query = document.getElementById('query').value;
-              self.location.href = '#SearchPage';
-              searchCtrl.onSearch(query);
-          }
-      </script>
+                <div class="lg-col-span-3 site-header-nav-right">
+                    <form class="site-header-nav-right-search" onsubmit="search(event)">
+                        <input type="text" name="query" id="query" class="search-field" placeholder="SEARCH..." autocomplete="off" autocorrect="off" spellcheck="false">
+                        <button type='submit'><i class='fa fa-search'></i></button>
+                    </form>
+                </div> 
+            </nav> 
+            <script>          
+                var search = function(e){
+                    e.preventDefault();
+                    var query = document.getElementById('query').value;
+                    self.location.href = '#SearchPage';
+                    searchCtrl.onSearch(query);
+                }
+            </script>
         </header>
         <!-- HOME PAGE -->
         <section id="home-page-id"></section>
