@@ -1,0 +1,161 @@
+
+{
+
+	"engine": {
+
+		"configuration": "inline",
+
+		"type": "Four-stroke",
+
+		"valveTrain": "Chain driven, DOHC",
+
+		"cooling": "Air cooled",
+
+		"valvesPerCyl": "2",
+
+		"numberCyl": "4",
+
+		"lubrication": "Wet sump",
+
+		"power": "65.7 Kw @ 8,200rpm",
+
+		"torque": "83.4 NM @ 6500rpm",
+
+		"bore": "70.0 mm",
+
+		"stroke": "64.8 mm",
+
+		"displacement": "997 cc",
+
+		"compression": "9.2:1",
+
+		"speed": "8500 rpm",
+
+		"starter": "Electric only",
+
+		"filtration": "Pleated paper",
+
+		"carburation": "4 x VM 26SS Mikunis",
+
+		"ignition": "Battery/Coil with breaker pts"
+
+	},
+
+	"fuelCons": {
+
+		"hard": "11.7 km/litre",
+
+		"tour": "16.9 km/litre",
+
+		"city": "14.5 km/litre",
+
+		"avg": "14.9 km/litre"
+	},
+
+	"dimensions": {
+
+		"length": "n/a",
+
+		"width": "n/a",
+
+		"height": "n/a",
+
+		"seat": "810 mm",
+
+		"wheelbase": "1500 mm",
+
+		"clearance": "160 mm",
+
+		"mass": "255 kg",
+
+		"fuel": "22 litres",
+
+		"reserve": "4.2 litres",
+
+		"oil": "3.0 litres"
+
+	},
+
+	"transmission": {
+
+		"clutch": "wet, multiplate",
+
+		"gears": "5",
+
+		"drive": "roller chain",
+
+		"primary": "1.775",
+
+		"final": "3.090"
+	},
+
+	"gears": {
+
+		"first": "12.90",
+
+		"second": "9.17",
+
+		"third": "7.12",
+
+		"fourth": "5.81",
+
+		"fifth": "4.96",
+
+		"sixth": "-"
+	},
+
+	"chassis": {
+
+		"type": "Double cradle",
+
+		"swingarm": "Steel tube",
+
+		"frame": "Steel tube",
+
+		"rake": "27.5 degrees",
+
+		"trail": "112 mm",
+
+		"frontTyre": "IRC 3.50V19",
+
+		"rearTyre": "IRC 4.50V17"
+
+	},
+
+	"suspension": {
+
+		"front": "Telescopic forks",
+
+		"rear": "Twin shocks",
+
+		"forkStroke": "140 mm",
+
+		"rearWheelTravel": "85 mm"
+
+	},
+
+	"brakes": {
+
+		"front": "Twin disc",
+
+		"rear": "Single disc",
+
+		"frontDiameter": "280 mm",
+
+		"rearDiameter": "280 mm"
+	},
+
+	"performance": {
+
+		"standing400": "12.2 secs @ 174 km/h",
+
+		"timeTo100": "4.3 secs",
+
+		"speed": "217 km/h",
+
+		"stoppingFrom100": "34.9 metres",
+
+		"stoppingFrom60": "12.2 metres"
+	}
+
+}

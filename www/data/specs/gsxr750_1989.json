@@ -1,0 +1,161 @@
+
+{
+
+	"engine": {
+
+		"configuration": "inline",
+
+		"type": "Four-stroke",
+
+		"valveTrain": "Chain driven, DOHC",
+
+		"cooling": "Oil cooled",
+
+		"valvesPerCyl": "4",
+
+		"numberCyl": "4",
+
+		"lubrication": "Wet sump",
+
+		"power": "82.4 Kw @ 11,000rpm",
+
+		"torque": "77 NM @ 9500rpm",
+
+		"bore": "73.0 mm",
+
+		"stroke": "44.7 mm",
+
+		"displacement": "748 cc",
+
+		"compression": "10.9:1",
+
+		"speed": "11000 rpm",
+
+		"starter": "Electric only",
+
+		"filtration": "Pleated paper",
+
+		"carburation": "4 x 36 mm Mikuni",
+
+		"ignition": "Digital electronic"
+
+	},
+
+	"fuelCons": {
+
+		"hard": "13.0 km/litre",
+
+		"tour": "15.5 km/litre",
+
+		"city": "15.0 km/litre",
+
+		"avg": "14.0 km/litre"
+	},
+
+	"dimensions": {
+
+		"length": "2055",
+
+		"width": "730",
+
+		"height": "1100",
+
+		"seat": "770 mm",
+
+		"wheelbase": "1410 mm",
+
+		"clearance": "120 mm",
+
+		"mass": "195 kg",
+
+		"fuel": "21 litres",
+
+		"reserve": "n/a",
+
+		"oil": "4.8 litres"
+
+	},
+
+	"transmission": {
+
+		"clutch": "wet, multiplate",
+
+		"gears": "6",
+
+		"drive": "roller chain",
+
+		"primary": "n/a",
+
+		"final": "n/a"
+	},
+
+	"gears": {
+
+		"first": "2.38",
+
+		"second": "1.88",
+
+		"third": "1.63",
+
+		"fourth": "1.45",
+
+		"fifth": "1.29",
+
+		"sixth": "1.20"
+	},
+
+	"chassis": {
+
+		"type": "Double cradle, Aluminium",
+
+		"swingarm": "Retangular box section",
+
+		"frame": "Rectangular tube",
+
+		"rake": "24.9 degrees",
+
+		"trail": "99 mm",
+
+		"frontTyre": "3.50 x 17 Michelin",
+
+		"rearTyre": "4.50 x 17 Michelin"
+
+	},
+
+	"suspension": {
+
+		"front": "Telescopic forks",
+
+		"rear": "Monoshock",
+
+		"forkStroke": "120 mm",
+
+		"rearWheelTravel": "136 mm"
+
+	},
+
+	"brakes": {
+
+		"front": "Twin disc",
+
+		"rear": "Single disc",
+
+		"frontDiameter": "310 mm",
+
+		"rearDiameter": "220 mm"
+	},
+
+	"performance": {
+
+		"standing400": "n/a",
+
+		"timeTo100": "n/a",
+
+		"speed": "240 km/h (est)",
+
+		"stoppingFrom100": "n/a",
+
+		"stoppingFrom60": "n/a"
+	}
+
+}

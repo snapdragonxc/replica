@@ -1,0 +1,161 @@
+
+{
+
+	"engine": {
+
+		"configuration": "inline",
+
+		"type": "Four-stroke",
+
+		"valveTrain": "Chain driven, DOHC",
+
+		"cooling": "Air cooled",
+
+		"valvesPerCyl": "4",
+
+		"numberCyl": "4",
+
+		"lubrication": "Wet sump",
+
+		"power": "30.8 Kw @ 10,000rpm",
+
+		"torque": "30.2 NM @ 8500rpm",
+
+		"bore": "53.0 mm",
+
+		"stroke": "45.2 mm",
+
+		"displacement": "398 cc",
+
+		"compression": "10.2:1",
+
+		"speed": "10000 rpm",
+
+		"starter": "Electric only",
+
+		"filtration": "Pleated paper",
+
+		"carburation": "4 X 26 Mikunis",
+
+		"ignition": "Mechanical-Battery/Coil"
+
+	},
+
+	"fuelCons": {
+
+		"hard": "17.8 km/litre",
+
+		"tour": "25.7 km/litre",
+
+		"city": "19.6 km/litre",
+
+		"avg": "19 km/litre"
+	},
+
+	"dimensions": {
+
+		"length": "2105 mm",
+
+		"width": "750 mm",
+
+		"height": "1185 mm",
+
+		"seat": "780 mm",
+
+		"wheelbase": "1400 mm",
+
+		"clearance": "165 mm",
+
+		"mass": "179 kg",
+
+		"fuel": "15 litres",
+
+		"reserve": "3.5 litres",
+
+		"oil": "2 litres"
+
+	},
+
+	"transmission": {
+
+		"clutch": "wet, multiplate",
+
+		"gears": "6",
+
+		"drive": "roller chain",
+
+		"primary": "2.243:1",
+
+		"final": "2.866:1"
+	},
+
+	"gears": {
+
+		"first": "20.35",
+
+		"second": "13.66",
+
+		"third": "10.48",
+
+		"fourth": "8.57",
+
+		"fifth": "7.54",
+
+		"sixth": "6.96"
+	},
+
+	"chassis": {
+
+		"type": "Double cradle",
+
+		"swingarm": "steel tube",
+
+		"frame": "Steel tube",
+
+		"rake": "27 degrees",
+
+		"trail": "100 mm",
+
+		"frontTyre": "3.25S19-4PR",
+
+		"rearTyre": "3.75S18-4PR"
+
+	},
+
+	"suspension": {
+
+		"front": "Telescopic forks",
+
+		"rear": "Twin shock",
+
+		"forkStroke": "140 mm",
+
+		"rearWheelTravel": "70 mm"
+
+	},
+
+	"brakes": {
+
+		"front": "Twin disc",
+
+		"rear": "Internal expanding",
+
+		"frontDiameter": "275 mm",
+
+		"rearDiameter": "165 mm"
+	},
+
+	"performance": {
+
+		"standing400": "14.0 secs/146 km/h",
+
+		"timeTo100": "6.6 sec",
+
+		"speed": "174 km/h",
+
+		"stoppingFrom100": "34.5 meters",
+
+		"stoppingFrom60": "12.1 meters"
+	}
+
+}

@@ -1,0 +1,16 @@
+.blog {
+    border-top: 1px solid #ddd;
+    border-bottom: 1px solid #ddd;
+    margin-top: 10px;
+}
+h2.blog-content-title {
+    font-family: 'Quicksand', sans-serif;
+    font-size: 26px;
+    line-height: 2;
+    font-weight: 300;
+    letter-spacing: normal;
+    color: #444;
+    text-align: center;
+    margin-top: 200px;
+    margin-bottom: 300px;
+}

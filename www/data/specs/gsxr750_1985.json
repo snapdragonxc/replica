@@ -1,0 +1,161 @@
+
+{
+
+	"engine": {
+
+		"configuration": "inline",
+
+		"type": "Four-stroke",
+
+		"valveTrain": "Chain driven, DOHC",
+
+		"cooling": "Oil cooled",
+
+		"valvesPerCyl": "4",
+
+		"numberCyl": "4",
+
+		"lubrication": "Wet sump",
+
+		"power": "73.6 Kw @ 10,500rpm",
+
+		"torque": "70.6 NM @ 9000rpm",
+
+		"bore": "70.0 mm",
+
+		"stroke": "48.7 mm",
+
+		"displacement": "749 cc",
+
+		"compression": "9.8:1",
+
+		"speed": "11000 rpm",
+
+		"starter": "Electric only",
+
+		"filtration": "Pleated paper",
+
+		"carburation": "4 x 29 mm Mikuni",
+
+		"ignition": "Transistorised battery/Coil"
+
+	},
+
+	"fuelCons": {
+
+		"hard": "13.0 km/litre",
+
+		"tour": "15.0 km/litre",
+
+		"city": "14.0 km/litre",
+
+		"avg": "14.0 km/litre"
+	},
+
+	"dimensions": {
+
+		"length": "2105 mm",
+
+		"width": "745 mm",
+
+		"height": "1205 mm",
+
+		"seat": "780 mm",
+
+		"wheelbase": "1435 mm",
+
+		"clearance": "120 mm",
+
+		"mass": "176 kg",
+
+		"fuel": "19 litres",
+
+		"reserve": "4 litres",
+
+		"oil": "5.5 litres"
+
+	},
+
+	"transmission": {
+
+		"clutch": "wet, multiplate",
+
+		"gears": "6",
+
+		"drive": "roller chain",
+
+		"primary": "1.744",
+
+		"final": "3.000"
+	},
+
+	"gears": {
+
+		"first": "2.769",
+
+		"second": "2.062",
+
+		"third": "1.647",
+
+		"fourth": "1.400",
+
+		"fifth": "1.227",
+
+		"sixth": "1.095"
+	},
+
+	"chassis": {
+
+		"type": "Double cradle, Aluminium",
+
+		"swingarm": "Retangular box section",
+
+		"frame": "Rectangular tube",
+
+		"rake": "26 degrees",
+
+		"trail": "107 mm",
+
+		"frontTyre": "110/80-V18 Bridgestone",
+
+		"rearTyre": "140/70 x V18 Bridgestone"
+
+	},
+
+	"suspension": {
+
+		"front": "Telescopic forks",
+
+		"rear": "Monoshock",
+
+		"forkStroke": "90 mm",
+
+		"rearWheelTravel": "80 mm"
+
+	},
+
+	"brakes": {
+
+		"front": "Twin disc",
+
+		"rear": "Single disc",
+
+		"frontDiameter": "300 mm",
+
+		"rearDiameter": "220 mm"
+	},
+
+	"performance": {
+
+		"standing400": "11.5 secs/188 km/h",
+
+		"timeTo100": "4.4 sec",
+
+		"speed": "232 km/h",
+
+		"stoppingFrom100": "34.1 meters",
+
+		"stoppingFrom60": "11.9 meters"
+	}
+
+}

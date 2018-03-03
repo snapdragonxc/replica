@@ -1,0 +1,161 @@
+
+{
+
+	"engine": {
+
+		"configuration": "inline",
+
+		"type": "Four-stroke",
+
+		"valveTrain": "Chain driven, DOHC",
+
+		"cooling": "Air cooled",
+
+		"valvesPerCyl": "2",
+
+		"numberCyl": "4",
+
+		"lubrication": "Wet sump",
+
+		"power": "64.9 Kw @ 8,000rpm",
+
+		"torque": "85.3 NM @ 6500rpm",
+
+		"bore": "70.0 mm",
+
+		"stroke": "64.8 mm",
+
+		"displacement": "997 cc",
+
+		"compression": "9.2:1",
+
+		"speed": "8500 rpm",
+
+		"starter": "Electric only",
+
+		"filtration": "Pleated paper",
+
+		"carburation": "4 x VM 26SS Mikunis",
+
+		"ignition": "Battery/Coil with breaker pts"
+
+	},
+
+	"fuelCons": {
+
+		"hard": "n/a",
+
+		"tour": "n/a",
+
+		"city": "n/a",
+
+		"avg": "n/a"
+	},
+
+	"dimensions": {
+
+		"length": "n/a",
+
+		"width": "850 mm",
+
+		"height": "1165 mm",
+
+		"seat": "n/a",
+
+		"wheelbase": "1505 mm",
+
+		"clearance": "155 mm",
+
+		"mass": "234 kg",
+
+		"fuel": "19 litres",
+
+		"reserve": "4 litres",
+
+		"oil": "3.4 litres"
+
+	},
+
+	"transmission": {
+
+		"clutch": "wet, multiplate",
+
+		"gears": "5",
+
+		"drive": "roller chain",
+
+		"primary": "1.775",
+
+		"final": "2.800"
+	},
+
+	"gears": {
+
+		"first": "2.500",
+
+		"second": "1.777",
+
+		"third": "1.381",
+
+		"fourth": "1.125",
+
+		"fifth": "0.961",
+
+		"sixth": "-"
+	},
+
+	"chassis": {
+
+		"type": "Double cradle",
+
+		"swingarm": "Steel tube",
+
+		"frame": "Steel tube",
+
+		"rake": "28.0 degrees",
+
+		"trail": "116 mm",
+
+		"frontTyre": "3.50 V19 4PR Bridgestone",
+
+		"rearTyre": "4.50 V17 4PR Bridgestonei"
+
+	},
+
+	"suspension": {
+
+		"front": "Telescopic forks",
+
+		"rear": "Twin shocks",
+
+		"forkStroke": "140 mm",
+
+		"rearWheelTravel": "75 mm"
+
+	},
+
+	"brakes": {
+
+		"front": "Twin disc",
+
+		"rear": "Single disc",
+
+		"frontDiameter": "280 mm",
+
+		"rearDiameter": "280 mm"
+	},
+
+	"performance": {
+
+		"standing400": "11.8 secs (est)",
+
+		"timeTo100": "n/a",
+
+		"speed": "217 km/h",
+
+		"stoppingFrom100": "n/a",
+
+		"stoppingFrom60": "n/a"
+	}
+
+}

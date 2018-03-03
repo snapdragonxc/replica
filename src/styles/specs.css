@@ -1,0 +1,65 @@
+/* <--- TABLE STYLING ---> */
+.specs-content table {
+    width: 100%;
+    margin: 0 auto;
+    background-color: #c3d0d9;
+    border-collapse: collapse;
+    border-spacing: 2px;
+    border-color: grey;
+    font-size: 12px;
+    font-family: 'Sintony', arial, sans-serif;
+    color: #444;
+    line-height: 1.5;
+    text-align: justify;
+}
+.specs-content table td {
+    border-top: 1px solid #bbb;
+    vertical-align: top;
+    padding: 1px;
+}
+.specs-content table tbody tr td:first-child {
+    text-align: left;
+    padding-left: 6px;
+    border-left: 1px solid #86a3b1;
+}
+.specs-content table tbody tr td:last-child {
+    text-align: right;
+    padding-right: 6px;
+    border-right: 1px solid #86a3b1;
+}
+.specs-content table thead tr td {
+    font-family: arial, sans-serif;
+    text-align: center;
+    font-weight: bold;
+    font-size: 13px;
+    background-color: #86a3b1;
+    color: #4f4f4f;
+    border: 1px solid #86a3b1;
+}
+.specs-content table tbody tr:last-child {
+    border-bottom: 1px solid #86a3b1;
+}
+/* <--- MAIN STYLING ---> */
+.specs-content-container { /* cancel padding of row */
+    padding-left: 15px;
+    padding-right: 15px;
+}
+.specs-content-col {
+    border-right: 1px solid #ddd;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+.specs-content-col:first-child {
+    border-left: 1px solid #ddd;
+}
+.specs-footer {
+    margin-top: 40px;
+}
+.specs-footer-container { /* cancels row padding */
+    padding-left: 15px;
+    padding-right: 15px;
+}
+.specs-footer-content {
+    border-top: 1px solid #ddd;
+    margin-bottom: 10px;
+}

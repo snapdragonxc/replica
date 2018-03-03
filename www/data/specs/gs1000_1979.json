@@ -1,0 +1,161 @@
+
+{
+
+	"engine": {
+
+		"configuration": "inline",
+
+		"type": "Four-stroke",
+
+		"valveTrain": "Chain driven, DOHC",
+
+		"cooling": "Air cooled",
+
+		"valvesPerCyl": "2",
+
+		"numberCyl": "4",
+
+		"lubrication": "Wet sump",
+
+		"power": "69.4 Kw @ 11,000rpm",
+
+		"torque": "n/a NM @ 9000rpm",
+
+		"bore": "70.0 mm",
+
+		"stroke": "64.8 mm",
+
+		"displacement": "997 cc",
+
+		"compression": "9.2:1",
+
+		"speed": "8500 rpm",
+
+		"starter": "Electric only",
+
+		"filtration": "Pleated paper",
+
+		"carburation": "4 x 28 mm Mikunis",
+
+		"ignition": "Battery/Coil with breaker pts"
+
+	},
+
+	"fuelCons": {
+
+		"hard": "12.1 km/litre",
+
+		"tour": "17.2 km/litre",
+
+		"city": "14.3 km/litre",
+
+		"avg": "15.4 km/litre"
+	},
+
+	"dimensions": {
+
+		"length": "2090 mm",
+
+		"width": "n/a",
+
+		"height": "n/a",
+
+		"seat": "830 mm",
+
+		"wheelbase": "1535 mm",
+
+		"clearance": "160 mm",
+
+		"mass": "238 kg",
+
+		"fuel": "19 litres",
+
+		"reserve": "4 litres",
+
+		"oil": "3.4 litres"
+
+	},
+
+	"transmission": {
+
+		"clutch": "wet, multiplate",
+
+		"gears": "5",
+
+		"drive": "roller chain",
+
+		"primary": "1.775:1",
+
+		"final": "2.800:1"
+	},
+
+	"gears": {
+
+		"first": "12.43",
+
+		"second": "8.83",
+
+		"third": "6.86",
+
+		"fourth": "5.59",
+
+		"fifth": "4.78",
+
+		"sixth": "-"
+	},
+
+	"chassis": {
+
+		"type": "Double cradle",
+
+		"swingarm": "Steel tube",
+
+		"frame": "Steel tube",
+
+		"rake": "27.0 degrees",
+
+		"trail": "116 mm",
+
+		"frontTyre": "4.10V19 Pirelli",
+
+		"rearTyre": "120/90V18 Pirelli"
+
+	},
+
+	"suspension": {
+
+		"front": "Telescopic forks",
+
+		"rear": "Twin shocks",
+
+		"forkStroke": "140 mm",
+
+		"rearWheelTravel": "75 mm"
+
+	},
+
+	"brakes": {
+
+		"front": "Twin disc",
+
+		"rear": "Single disc",
+
+		"frontDiameter": "280 mm",
+
+		"rearDiameter": "280 mm"
+	},
+
+	"performance": {
+
+		"standing400": "11.7 secs/181 km/h",
+
+		"timeTo100": "4.0 sec",
+
+		"speed": "223 km/h",
+
+		"stoppingFrom100": "34.6 meters",
+
+		"stoppingFrom60": "12.1 meters"
+	}
+
+}

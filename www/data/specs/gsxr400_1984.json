@@ -1,0 +1,161 @@
+
+{
+
+	"engine": {
+
+		"configuration": "inline",
+
+		"type": "Four-stroke",
+
+		"valveTrain": "Chain driven, DOHC",
+
+		"cooling": "Water cooled",
+
+		"valvesPerCyl": "4",
+
+		"numberCyl": "4",
+
+		"lubrication": "Wet sump",
+
+		"power": "43.4 Kw @ 11,000rpm",
+
+		"torque": "37.1 NM @ 9000rpm",
+
+		"bore": "53.0 mm",
+
+		"stroke": "45.2 mm",
+
+		"displacement": "398 cc",
+
+		"compression": "11.3:1",
+
+		"speed": "12000 rpm",
+
+		"starter": "Electric only",
+
+		"filtration": "Pleated paper",
+
+		"carburation": "Twin 30mm dual-choke",
+
+		"ignition": "Mechanical-Battery/Coil"
+
+	},
+
+	"fuelCons": {
+
+		"hard": "15.6 km/litre",
+
+		"tour": "21.6 km/litre",
+
+		"city": "19.1 km/litre",
+
+		"avg": "18.3 km/litre"
+	},
+
+	"dimensions": {
+
+		"length": "2090 mm",
+
+		"width": "710 mm",
+
+		"height": "1185 mm",
+
+		"seat": "755 mm",
+
+		"wheelbase": "1425 mm",
+
+		"clearance": "135 mm",
+
+		"mass": "152 kg",
+
+		"fuel": "18 litres",
+
+		"reserve": "3.0 litres",
+
+		"oil": "2.6 litres"
+
+	},
+
+	"transmission": {
+
+		"clutch": "wet, multiplate",
+
+		"gears": "6",
+
+		"drive": "roller chain",
+
+		"primary": "2.212",
+
+		"final": "3.066"
+	},
+
+	"gears": {
+
+		"first": "3.166",
+
+		"second": "2.125",
+
+		"third": "1.631",
+
+		"fourth": "1.333",
+
+		"fifth": "1.173",
+
+		"sixth": "1.083"
+	},
+
+	"chassis": {
+
+		"type": "Double cradle, Aluminium",
+
+		"swingarm": "Retangular box section",
+
+		"frame": "Rectangular tube",
+
+		"rake": "27.4 degrees",
+
+		"trail": "96 mm",
+
+		"frontTyre": "100/90 x 16 Bridgestone",
+
+		"rearTyre": "110/90 x 18 Bridgestone"
+
+	},
+
+	"suspension": {
+
+		"front": "Telescopic forks",
+
+		"rear": "Monoshock",
+
+		"forkStroke": "130 mm",
+
+		"rearWheelTravel": "105 mm"
+
+	},
+
+	"brakes": {
+
+		"front": "Twin disc",
+
+		"rear": "Single disc",
+
+		"frontDiameter": "235 mm",
+
+		"rearDiameter": "210 mm"
+	},
+
+	"performance": {
+
+		"standing400": "12.6 secs/165 km/h",
+
+		"timeTo100": "4.8 sec",
+
+		"speed": "195 km/h",
+
+		"stoppingFrom100": "34.2 meters",
+
+		"stoppingFrom60": "12.0meters"
+	}
+
+}

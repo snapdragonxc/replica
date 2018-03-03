@@ -1,0 +1,75 @@
+.about {
+    border-top: 1px solid #ddd;
+    border-bottom: 1px solid #ddd;
+    margin-top: 10px;
+    padding-bottom: 30px;
+    margin-bottom: 20px;
+    padding-top: 30px; 
+    padding-bottom: 40px; 
+}
+.about-title h2 {
+    font-family: 'Quicksand', sans-serif;
+    font-size: 30px;
+    line-height: 2;
+    font-weight: 300;
+    letter-spacing: normal;
+    margin-bottom: 20px;
+    color: #4f4f4f;
+}
+.about-photo img {
+    width: 100%;
+    height: auto;
+}
+.about-content {
+   padding-left: 200px;
+   padding-right: 200px;
+}
+.about-content-wrap {
+    background-color: #f7f7f7;
+    padding: 20px;
+}
+.about-content p {
+    text-align: justify;
+    font-family: 'Sintony', sans-serif;
+    font-size: 14px;
+    line-height: 21px;
+    color: #444;
+    margin-bottom: 10px;
+}
+.about-content h2 {
+    font-family: 'Quicksand', sans-serif;
+    font-size: 30px;
+    line-height: 2;
+    font-weight: 300;
+    letter-spacing: normal;
+    margin-bottom: 20px;
+    color: #4f4f4f;
+}
+.about-references {
+    padding-left: 200px;
+    padding-right: 200px;
+}
+p.text-right {
+    text-align: right;
+}
+.about a {
+    text-decoration: none;
+}
+/* unvisited link */
+.about a:link {
+    font-weight: bold;
+    color: #4f4f4f;
+}
+/* visited link */
+.about a:visited {
+    font-weight: bold;
+    color: #4f4f4f;
+}
+/* mouse over link */
+.about a:hover {
+    color: #999; 
+}
+/* selected link */
+.about a:active {
+    color: blue;
+}

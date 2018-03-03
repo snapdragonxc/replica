@@ -1,0 +1,161 @@
+
+{
+
+	"engine": {
+
+		"configuration": "inline",
+
+		"type": "Four-stroke",
+
+		"valveTrain": "Chain driven, DOHC",
+
+		"cooling": "Water cooled",
+
+		"valvesPerCyl": "8",
+
+		"numberCyl": "4",
+
+		"lubrication": "Wet sump",
+
+		"power": "43.4 Kw @ 12,000rpm",
+
+		"torque": "37.3 NM @ 9000rpm",
+
+		"bore": "56.0 mm",
+
+		"stroke": "40.4 mm",
+
+		"displacement": "398 cc",
+
+		"compression": "11.3:1",
+
+		"speed": "13000 rpm",
+
+		"starter": "Electric only",
+
+		"filtration": "Pleated paper",
+
+		"carburation": "n/a",
+
+		"ignition": "Mechanical-Battery/Coil"
+
+	},
+
+	"fuelCons": {
+
+		"hard": "n/a",
+
+		"tour": "n/a",
+
+		"city": "n/a",
+
+		"avg": "n/a"
+	},
+
+	"dimensions": {
+
+		"length": "2055 mm",
+
+		"width": "680 mm",
+
+		"height": "1155 mm",
+
+		"seat": "780mm",
+
+		"wheelbase": "1400 mm",
+
+		"clearance": "110 mm",
+
+		"mass": "153 kg",
+
+		"fuel": "18 litres",
+
+		"reserve": "3.0 litres",
+
+		"oil": "n/a"
+
+	},
+
+	"transmission": {
+
+		"clutch": "wet, multiplate",
+
+		"gears": "6",
+
+		"drive": "roller chain",
+
+		"primary": "1.954",
+
+		"final": "3.285"
+	},
+
+	"gears": {
+
+		"first": "3.363",
+
+		"second": "2.307",
+
+		"third": "1.750",
+
+		"fourth": "1.437",
+
+		"fifth": "1.25",
+
+		"sixth": "1.150"
+	},
+
+	"chassis": {
+
+		"type": "Twin spar, Aluminium",
+
+		"swingarm": "Retangular box section",
+
+		"frame": "Rectangular tube/beam",
+
+		"rake": "25.00 degrees",
+
+		"trail": "101 mm",
+
+		"frontTyre": "110/80-17 57H",
+
+		"rearTyre": "140/80-17 69H"
+
+	},
+
+	"suspension": {
+
+		"front": "Telescopic forks",
+
+		"rear": "Monoshock",
+
+		"forkStroke": "n/a",
+
+		"rearWheelTravel": "n/a"
+
+	},
+
+	"brakes": {
+
+		"front": "Twin disc",
+
+		"rear": "Single disc",
+
+		"frontDiameter": "n/a",
+
+		"rearDiameter": "n/a"
+	},
+
+	"performance": {
+
+		"standing400": "n/a",
+
+		"timeTo100": "n/a",
+
+		"speed": "195 km/h",
+
+		"stoppingFrom100": "n/a",
+
+		"stoppingFrom60": "n/a"
+	}
+
+}

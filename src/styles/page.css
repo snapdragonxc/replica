@@ -1,0 +1,102 @@
+/* Sub-header common to all pages */
+.page-header-container {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+ul.page-header-filter {
+    text-align: center;
+    width: 100%;
+    list-style-type: none;
+    padding: 0;
+    box-sizing: border-box;
+    border-top: 1px solid #ddd;
+    margin-top: 10px;
+}
+ul.page-header-filter li {
+    display: inline-block;
+    min-width: 250px;
+    box-sizing: border-box;
+    padding: 20px 0; 
+    text-align: left;
+    margin: 0 5px; 
+}
+/*<--- PAGE SELECT ---> */
+select.page-select {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    text-indent: 10px;
+    box-sizing: border-box;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+    font-size: 13px;
+    color: #333;
+    font-weight: bold;
+    font-family: arial;
+    line-height: 40px;
+    width: 100%;
+    height: 40px;
+    background-color: #fff;
+}
+.page-select-container {
+    position: relative;
+    border: 1px solid #ddd;
+}
+.page-select-btn {
+    font-weight: normal;
+    line-height: 40px;
+    text-align: center;
+    color: #666;
+    right: 1px; 
+    top: 0px;
+    height: 40px;
+    width: 40px;
+    border-left: 1px solid #ddd;
+    position: absolute;
+    pointer-events: none; !important;
+}
+/* <--- MARKER STYLING ---> */
+.marker.left {
+    left: 14px;
+}
+.marker.right {
+    right: 14px;
+}
+.marker {
+    height: 100%;
+    position: absolute;
+    top: 0;
+    width: 50px;
+    z-index: 200;
+}
+.marker-container {
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    background-color: grey;
+    opacity: 0.1;
+    display: none;
+}
+.marker {
+    height: 100%;
+    position: absolute;
+    top:0;
+    width: 50px;
+    z-index: 200;
+}
+.marker-arrow {
+    position: absolute;
+    text-align: center;
+    left: 0;
+    top: 0;
+    width: 100%;
+    line-height: 510px;
+    font-size: 30px;
+    display: none;
+    color: #555;
+}
+.marker:hover { cursor: pointer;}
+.marker:hover > div { display: block;}
