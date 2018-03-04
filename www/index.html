@@ -25,6 +25,19 @@
         html {
             overflow-y: scroll;
         }
+        /* remove dotted outline on links in firefox */
+        a:focus { 
+            outline: none; 
+        }
+
+        /* remove dotted outline on selects in firefox */
+        select:-moz-focusring {
+            color: transparent;
+            text-shadow: 0 0 0 #000;
+        }
+        option:not(:checked) {
+            color: black; /* prevent <option>s from becoming transparent as well */
+        }
     </style>
 </head>
 <body>
