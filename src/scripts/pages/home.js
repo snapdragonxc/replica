@@ -56,8 +56,8 @@
                                 '<p>Here you will find a database of articles ' +
                                 ' re-typed from bike reviews published in motorbike magazines of the 1980s. ' +
                                 'These are backed up with photos and specifications of each bike.</p>' +
-                                '<p>The articles will be extended over time to include other manufacturers and bikes but for now, I' + 
-                                ' hope you enjoy it!</p>' +
+                                '<p>The articles will be extended over time to include other manufacturers and bikes but for now, its' + 
+                                ' Suzuki only!</p>' +
                                 '</div>' +
                                 '<div class="home-banner-right-caption">' +
                                     '<h2>COVER PHOTOS</h2>' +
