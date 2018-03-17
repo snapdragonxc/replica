@@ -1,6 +1,6 @@
 # replica
 ### Description
-[replica](http://racereplica.org) is a static website built using the following technologies:
+***replica*** is a static website built using the following technologies:
 - jQuery
 - Javascript
 
