@@ -15,7 +15,7 @@ The router is similar to that developed by Joakim Carlstein:
 
 [http://joakim.beng.se/blog/posts/a-javascript-router-in-20-lines.html](http://joakim.beng.se/blog/posts/a-javascript-router-in-20-lines.html)
 
-To give the articles the feel of a magazine, the text is displayed in multiple text columns. Rather than use [CSS Mutiple Columns](https://www.w3schools.com/css/css3_multiple_columns.asp), a javascript algorithm is applied to adjust the word-count for each text column to achieve a fixed column height. The code for this algoritm is at:
+To give the articles the feel of a magazine, the text is displayed in multiple text columns. Rather than use CSS Mutiple Columns, a javascript algorithm is applied to adjust the word-count for each text column to achieve a fixed column height. The code for this algoritm is at:
 
 [https://github.com/snapdragonxc/replica/blob/master/src/scripts/app/page_algorithm_2.js](https://github.com/snapdragonxc/replica/blob/master/src/scripts/app/page_algorithm_2.js)
 
