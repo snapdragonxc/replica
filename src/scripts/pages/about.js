@@ -28,7 +28,7 @@
                 '<div class="lg-col-span-12 about-content">' + 
                 '<div class="about-content-wrap">' +
                     '<h2>About</h2>' + 
-                    '<p>Race Replica was created by <a href="http://www.snapdragonxc.com" target="_blank" >SnapdragonXC</a>, a Software Developer. ' +
+                    '<p>Race Replica was created by <a href="https://github.com/snapdragonxc/replica" target="_blank" >SnapdragonXC</a>, a Software Developer. ' +
                     'Originally intended as a place for the testing and evaluation of javascript code, it has '  +
                     'since grown in size to include multiple pages and is now on-line. Whilst there are plenty of websites looking at modern bikes, ' +
                     'there are relatively few on the post-classic bikes of the 1980s, in particular Suzuki.</p>' +
