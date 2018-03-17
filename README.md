@@ -15,11 +15,18 @@ The router is similar to that developed by Joakim Carlstein:
 
 [http://joakim.beng.se/blog/posts/a-javascript-router-in-20-lines.html](http://joakim.beng.se/blog/posts/a-javascript-router-in-20-lines.html)
 
+To give the articles the feel of a magazine, the text is displayed in multiple text columns. Rather than use [CSS Mutiple Columns](https://www.w3schools.com/css/css3_multiple_columns.asp), a javascript algorithm is applied to adjust the word-count for each text column to achieve a fixed column height. The code for this algoritm is at:
+
+[https://github.com/snapdragonxc/replica/blob/master/src/scripts/app/page_algorithm_2.js](https://github.com/snapdragonxc/replica/blob/master/src/scripts/app/page_algorithm_2.js)
+
 ### Styling
-The styling of the front page was based on an obsolete (2016) version of the Haute Hijab website. The current
-version of the Haute Hijab website is at:
+The styling of the front page was based on an obsolete (2016) version of the Haute Hijab website, which has changed twice since 2016. The current version of the Haute Hijab website is at:
 
 [https://www.hautehijab.com](https://www.hautehijab.com)
+
+Haute Hijab itself, was designed by the "Whole Design Studios":
+
+[https://experts.shopify.com/whole-design-studios](https://experts.shopify.com/whole-design-studios)
 
 ### Installation
 The website can be installed on a cloud service, such as Amazon AWS, or locally on a PC.
