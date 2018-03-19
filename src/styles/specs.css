@@ -53,7 +53,7 @@
     border-left: 1px solid #ddd;
 }
 .specs-footer {
-    margin-top: 40px;
+    margin-top: 13px;
 }
 .specs-footer-container { /* cancels row padding */
     padding-left: 15px;
@@ -61,5 +61,6 @@
 }
 .specs-footer-content {
     border-top: 1px solid #ddd;
-    margin-bottom: 10px;
+    margin-bottom: -20px; 
+    height: 39px;
 }

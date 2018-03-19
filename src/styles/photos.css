@@ -34,7 +34,7 @@
   margin-bottom: 5px;
   color: #555;  
   font-weight: normal; 
-  margin-bottom: 0px;
+  margin-bottom: -20px;
 }
 /* <--- Overide marker --> */
 .marker-container.photos {
